@@ -6,4 +6,4 @@ My GitHub profile is my digital playground where code art and a touch of humour 
 
 So grab a cup of coffee and let's explore the world of code together! ☕️✨
 
-For the repositories section this way, please: https://github.com/JohannaHaer?tab=repositories
+For the repositories section this way, please: [GitHub](https://github.com/JohannaHaer?tab=repositories)
